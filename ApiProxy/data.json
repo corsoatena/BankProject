@@ -1,0 +1,56 @@
+{
+  "Users": [
+    {
+      "name": "Bruno Ferreira",
+      "age": "40",
+      "prelievi": [
+        {
+          "currency": "EURO",
+          "amount": 1000
+        },
+        {
+          "currency": "GBP",
+          "amount": 5000
+        },
+        {
+          "currency": "BTC",
+          "amount": 1
+        },
+        {
+          "currency": "RBL",
+          "amount": 10000
+        },
+        {
+          "currency": "USD",
+          "amount": 7000
+        }
+      ]
+    },
+    {
+      "name": "Mario Rossi",
+      "age": "60",
+      "prelievi": [
+        {
+          "currency": "EURO",
+          "amount": 100
+        },
+        {
+          "currency": "GBP",
+          "amount": 500
+        },
+        {
+          "currency": "BTC",
+          "amount": 1
+        },
+        {
+          "currency": "RBL",
+          "amount": 1000
+        },
+        {
+          "currency": "USD",
+          "amount": 10
+        }
+      ]
+    }
+  ] 
+}
